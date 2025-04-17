@@ -32,14 +32,14 @@
     "cross-spawn": "^7.0.6",
     "dotenv": "^16.5.0",
     "fs-extra": "^11.3.0",
-    "giget": "^1.2.5",
+    "giget": "^2.0.0",
     "lodash.kebabcase": "^4.1.1",
-    "nypm": "^0.5.4",
-    "open": "^10.1.0",
+    "nypm": "^0.6.0",
+    "open": "^10.1.1",
     "ora": "^8.2.0",
     "semver": "^7.7.1",
     "std-env": "^3.9.0",
-    "zod": "^3.24.2",
+    "zod": "^3.24.3",
     "zod-validation-error": "^3.4.0"
   },
   "devDependencies": {
